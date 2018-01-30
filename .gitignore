@@ -4,3 +4,6 @@
 !README.md
 !/mods/**
 !/scripts/**
+!/config/battletowers.cfg
+!/config/theoneprobe.cfg
+!/config/defaultoptions/options.txt
