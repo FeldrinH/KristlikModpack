@@ -4,6 +4,10 @@
 !README.md
 !/mods/**
 !/scripts/**
+!/local/**
+/local/client/**
+/local/ftbutilities/*.html
+/local/ftbutilities/*.txt
 !/config/battletowers.cfg
 !/config/theoneprobe.cfg
 !/config/defaultoptions/options.txt
