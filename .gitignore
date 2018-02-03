@@ -10,3 +10,5 @@
 /local/ftbutilities/*.txt
 !/config/**
 !/journeymap/**
+!/options.txt
+!/optionsof.txt
