@@ -25,6 +25,7 @@
 !/config/morph.cfg
 !/config/modnametooltip.cfg
 !/config/quark.cfg
+!/config/techguns.cfg
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
