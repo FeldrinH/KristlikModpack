@@ -24,6 +24,7 @@
 !/config/InvTweaksTree.txt
 !/config/morph.cfg
 !/config/modnametooltip.cfg
+!/config/quark.cfg
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
