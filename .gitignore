@@ -26,6 +26,7 @@
 !/config/modnametooltip.cfg
 !/config/quark.cfg
 !/config/techguns.cfg
+!/config/forestry/**
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
