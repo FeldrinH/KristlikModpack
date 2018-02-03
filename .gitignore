@@ -10,5 +10,8 @@
 /local/ftbutilities/*.txt
 !/config/**
 !/journeymap/**
+/journeymap/data/**
+/journeymap/colorpallete.html
+/journeymap/journeymap.log
 !/options.txt
 !/optionsof.txt
