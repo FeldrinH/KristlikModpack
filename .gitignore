@@ -9,7 +9,6 @@
 /local/client/**
 /local/ftbutilities/*.html
 /local/ftbutilities/*.txt
-!/config/defaultoptions/**
 !/config/aether/**
 !/config/twilightforest.cfg
 !/config/chisel.cfg
