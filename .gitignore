@@ -23,7 +23,7 @@
 !/config/InveTweaksRules.txt
 !/config/InvTweaksTree.txt
 !/config/morph.cfg
-!/config/modnametooltips.cfg
+!/config/modnametooltip.cfg
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
