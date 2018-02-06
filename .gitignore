@@ -26,6 +26,7 @@
 !/config/quark.cfg
 !/config/techguns.cfg
 !/config/forestry/**
+!/config/foamfix.cfg
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
