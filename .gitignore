@@ -27,6 +27,7 @@
 !/config/techguns.cfg
 !/config/forestry/**
 !/config/foamfix.cfg
+!/config/sstow/ShardTiers.json
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
