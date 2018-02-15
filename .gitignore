@@ -28,6 +28,7 @@
 !/config/forestry/**
 !/config/foamfix.cfg
 !/config/sstow/ShardTiers.json
+!/config/TinkerToolLeveling.cfg
 !/journeymap/**
 /journeymap/data/**
 /journeymap/colorpallete.html
